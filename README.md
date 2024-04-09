@@ -25,15 +25,16 @@
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
 
 
+
 - ### I’m currently learning 
-
-
+![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+![Autosar](https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/307758701_577941214126798_7766548068507452721_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ERBKuyb_SyIAb65bQtH&_nc_ht=scontent.fcai19-8.fna&oh=00_AfCEwaH7PXnD8G7CTnJIEtFB4COfs-84270jdMywrMot7Q&oe=661B5B35)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
  ### 🔗Contact Me
-[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071876901776))
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:marwannabil007@gmail.com
+[![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071876901776)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:marwannabil007@gmail.com)](mailto:marwannabil007@gmail.com
 )
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](www.linkedin.com/in/marwan-nabil-30341b264)
