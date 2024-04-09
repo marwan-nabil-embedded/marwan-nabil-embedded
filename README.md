@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Marwan Nabil from Egypt. I'm an embedded software engineer. I really enjoy learning Programming languages and more about electronics and new embedded soluntion for atomotive industry. For This Moment I'm junior embedded software developer and learning increasingly. </h4>
+<h4> I'm Marwan Nabil from Egypt. I'm an embedded software engineer. I really enjoy learning Programming languages and more about electronics and new embedded soluntion for atomotive industry. For This Moment I'm ECE student and junior embedded software developer and learning increasingly. </h4>
 
 
 	
@@ -22,7 +22,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
 
 
 
