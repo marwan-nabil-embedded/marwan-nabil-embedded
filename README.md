@@ -22,13 +22,14 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![c programming language](https://img.shields.io/badge/C%20-language-blue?style=plastic)
-
-
+![c programming language](https://img.shields.io/badge/C_programming_language-blue?style=plastic&logoColor=hsl)
+![lunix fundamentals](https://img.shields.io/badge/lunix_terminal_fundamentals-darkviolet?style=plastic&logoColor=hsl)
+![microcontroller interfaceing](https://img.shields.io/badge/microcontroller_interfacing-darkred?style=plastic&logoColor=hsl)
+![C++](https://img.shields.io/badge/C%2B%2B_programming_language-blue?style=plastic&logoColor=hsl)
 
 - ### I’m currently learning 
-![C++](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
-![Autosar](https://scontent.fcai19-8.fna.fbcdn.net/v/t39.30808-6/307758701_577941214126798_7766548068507452721_n.png?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ERBKuyb_SyIAb65bQtH&_nc_ht=scontent.fcai19-8.fna&oh=00_AfCEwaH7PXnD8G7CTnJIEtFB4COfs-84270jdMywrMot7Q&oe=661B5B35)
+![Autosar](https://img.shields.io/badge/Autosar-red?style=plastic&logoColor=hsl)
+![ARM](https://img.shields.io/badge/ARM_cortex_M4-darkblue?style=plastic&logoColor=hsl)
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
