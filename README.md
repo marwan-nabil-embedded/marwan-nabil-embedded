@@ -18,9 +18,9 @@
 ### Languages and Tools 🛠 : 
 
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![ubuntu](https://img.shields.io/badge/Ubuntu_OS-darkgreen?style=plastic&logoColor=hsl)
 ![c programming language](https://img.shields.io/badge/C_programming_language-blue?style=plastic&logoColor=hsl)
