@@ -32,6 +32,8 @@
 - ### I’m currently learning 
 ![Autosar](https://img.shields.io/badge/Autosar-red?style=plastic&logoColor=hsl)
 ![ARM](https://img.shields.io/badge/ARM_cortex_M4-darkblue?style=plastic&logoColor=hsl)
+![oop](https://img.shields.io/badge/OOP-blue?style=plastic&logoColor=hsl)
+
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
