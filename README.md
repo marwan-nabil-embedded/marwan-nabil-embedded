@@ -8,7 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
 
 <h3>🚀 About Me</h3> 
-<h4> I'm Marwan Nabil from Egypt. I'm an embedded software and cybersecurity enthusiast . I really enjoy learning Programming languages and more about electronics and ssecurity For This Moment I'm ECE student learning increasingly. </h4>
+<h4> I'm Marwan Nabil from Egypt. I'm an embedded software and cybersecurity enthusiast . I really enjoy learning Programming languages and more about electronics and security For This Moment I'm ECE student learning increasingly. </h4>
 
 
 	
